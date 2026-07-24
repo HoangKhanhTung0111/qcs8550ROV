@@ -67,3 +67,10 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+
+build/
+
+qnn_sysroot/
+
+ort_sysroot/
